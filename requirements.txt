@@ -6,4 +6,4 @@ pandas
 matplotlib
 numpy
 pillow
-pywin32
+
