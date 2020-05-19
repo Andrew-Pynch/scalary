@@ -12,7 +12,7 @@ setup(
     # Provide either the link to your github or to your website
     url='https://github.com/andrew-pynch',
     # I explain this later on
-    download_url='https://github.com/Andrew-Pynch/scalary/archive/0.1.tar.gz',
+    download_url='https://github.com/Andrew-Pynch/scalary/archive/0.1.1.tar.gz',
     keywords=['image', 'data collection', 'data processing',
               'data pipeline'],   # Keywords that define your package best
     install_requires=[            # I get to this in a second
@@ -22,7 +22,6 @@ setup(
         'pandas',
         'matplotlib',
         'numpy',
-        'torch',
         'pillow'
     ],
     classifiers=[
