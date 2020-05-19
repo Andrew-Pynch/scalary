@@ -1,0 +1,9 @@
+pyautogui
+melee
+opencv-python
+pandas
+matplotlib
+numpy
+pytorch
+pillow
+pywin32
