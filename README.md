@@ -14,3 +14,8 @@ dc = DataCollection()
 # Resize to something for acceptable for feeding into a CNN
 dc.Record(region=(400, 40, 1500, 1000), resize=(480, 270))
 ```
+
+# TODO
+* [ ] Function to draw abritrary text over a given video
+* [ ] Function to transform cv2 video streams into torch tensors of proper size
+
